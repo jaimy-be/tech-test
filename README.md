@@ -10,7 +10,7 @@
 ## GOAL AND RULES OF THE GAME ##
 
   * Create some endpoints to solve each of the exercises
-  * You must use Sinatra (doc: (you choose) https://en.wikipedia.org/wiki/Frank_Sinatra OR https://github.com/sinatra/sinatra)
+  * You must use Sinatra (doc: (you choose the link the most helpful) https://en.wikipedia.org/wiki/Frank_Sinatra OR https://github.com/sinatra/sinatra)
   * Your code must stored in a class with the number of the exercice (ex: ExerciseOne, ExerciseTwo ...), and this class will be called within the endpoint.  
   * Your class must at least have a class method called 'call' and be used like a service object (ex: ExerciseOne.new(my_parameter).call)
   * The endpoints will be tested via Postman after running your ruby file: ```rb tech_test.rb``` 
