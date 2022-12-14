@@ -30,7 +30,7 @@ Ex.1 -
   The enpoind will be reachable via POST http://localhost:4567/ex_one/my_parameter (my_parameter will be the tested value)
 
 Ex.2 -  
-  Create an endpoint to know what are the preferencies od our team  
+  Create an endpoint to know what are the preferencies of our team  
   You first need to fecth the data in https://jaimy-api.jaimy.be/api/test/tech_test/ex_two  
   Then return a string like 'Xavier likes to eat belgian food and to drink beer.'  
   The enpoind will be reachable via POST http://localhost:4567/ex_two/my_parameter (my_parameter will be the tested value)  
