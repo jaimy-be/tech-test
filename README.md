@@ -26,7 +26,7 @@ Ex.1 -
   * 0         -->   "€ 0,00"
   * 234500    -->   "€ 2.345,00"
   * random    -->   "Price is not an integer"
-  * -234566   -->   "€ -2.345,66". 
+  * -234566   -->   "€ -2.345,66".  
   The enpoind will be reachable via GET http://localhost:4567/ex_one/my_parameter (my_parameter will be the tested value)
 
 Ex.2 -  
